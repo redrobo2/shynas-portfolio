@@ -1,0 +1,13 @@
+
+/* Global CSS */
+body {
+  background-color: #000;
+  color: #ff0000;
+  font-family: 'Courier New', monospace;
+}
+
+h1, h2 {
+  color: #00FF00;
+}
+
+/* Add any other styles here */
